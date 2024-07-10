@@ -1,1 +1,1 @@
-# puzzles-test
+# puzzles-test. Инструкция внутри проекта
